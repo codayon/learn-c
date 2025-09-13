@@ -1,23 +1,23 @@
 ## [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 
-- [ ] `1` Foreword
-  - [ ] `1.1` Audience
-  - [ ] `1.2` How to Read This Book
-  - [ ] `1.3` Platform and Compiler
-  - [ ] `1.4` Official Homepage
-  - [ ] `1.5` Email Policy
-  - [ ] `1.6` Mirroring
-  - [ ] `1.7` Note for Translators
-  - [ ] `1.8` Copyright and Distribution
-  - [ ] `1.9` Dedication
-- [ ] `2` Hello, World!
-  - [ ] `2.1` What to Expect from C
-  - [ ] `2.2` Hello, World!
-  - [ ] `2.3` Compilation Details
-  - [ ] `2.4` Building with gcc
-  - [ ] `2.5` Building with clang
-  - [ ] `2.6` Building from IDEs
-  - [ ] `2.7` C Versions
+- [x] `1` Foreword
+  - [x] `1.1` Audience
+  - [x] `1.2` How to Read This Book
+  - [x] `1.3` Platform and Compiler
+  - [x] `1.4` Official Homepage
+  - [x] `1.5` Email Policy
+  - [x] `1.6` Mirroring
+  - [x] `1.7` Note for Translators
+  - [x] `1.8` Copyright and Distribution
+  - [x] `1.9` Dedication
+- [x] `2` Hello, World!
+  - [x] `2.1` What to Expect from C
+  - [x] `2.2` Hello, World!
+  - [x] `2.3` Compilation Details
+  - [x] `2.4` Building with gcc
+  - [x] `2.5` Building with clang
+  - [x] `2.6` Building from IDEs
+  - [x] `2.7` C Versions
 - [ ] `3` Variables and Statements
   - [ ] `3.1` Variables
     - [ ] `3.1.1` Variable Names
